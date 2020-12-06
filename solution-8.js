@@ -25,3 +25,4 @@ for (let i = 12; i < num.length; i++) {
 }
 
 console.log(maxProduct);
+// result: 23514624000
