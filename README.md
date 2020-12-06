@@ -1,3 +1,3 @@
 # Project Euler
 
-Solutions to [Project Euler](https://projecteuler.net/).
+Unoptimised solutions to [Project Euler](https://projecteuler.net/) problems.
