@@ -22,7 +22,3 @@ function generatePrimes() {
     }
   }
 }
-
-generatePrimes();
-const total = primes.reduce((a, b) => a + b, 0);
-console.log(total);
