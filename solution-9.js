@@ -8,7 +8,7 @@
 
 // 31875000
 
-function find() {
+function findTriplet() {
   for (let i = 1; i < 1000; i++) {
     for (let j = 1; j < 1000; j++) {
       for (let k = 1; k < 1000; k++) {
@@ -22,5 +22,5 @@ function find() {
   }
 }
 
-console.log(find());
+console.log(findTriplet());
 // 31875000
